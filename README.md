@@ -26,6 +26,6 @@ cdk destroy --profile {profile}
 ## LLRT (AWS Official)
 https://github.com/awslabs/llrt
 
-## cdk-lambda-llrt　(Unofficial CDK Library)
+## cdk-lambda-llrt　(CDK Library for LLRT Lambda)
 https://github.com/tmokmss/cdk-lambda-llrt
 
